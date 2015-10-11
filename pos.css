@@ -1,0 +1,21 @@
+header#page-header {
+  color: #F0F0F0;
+  background: #237CBE;
+  padding: 5px;
+  border-bottom: 3px solid darken(#237CBE, 10%);
+  text-align: center;
+}
+
+footer#page-footer {
+  color: #237CBE;
+  background: #F0F0F0;
+  text-align: center;
+  padding: 5px;
+  border-top: 3px solid darken(#F0F0F0, 10%);
+}
+
+aside#sidebar {
+  float: right;
+  background: #F0F0F0;
+  width: 200px;
+}
