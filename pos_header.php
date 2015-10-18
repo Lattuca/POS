@@ -1,3 +1,3 @@
 <header id="page-header">
-  <h1>mlib - Media LIBrary</h1>
+  <h1>Carmelo's Web POS System</h1>
 </header>
