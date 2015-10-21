@@ -1,7 +1,7 @@
 <!doctype html>
 <?php
 require('pos_functions.php');
-html_head("POS Product Update");
+html_head("POS Update");
 require('pos_header.php');
 require('pos_sidebar.php');
 require('pos_values.php');
